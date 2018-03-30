@@ -124,9 +124,10 @@ the following steps.
       logSeverityScreen: Info
       nodeToNodeMeshEnabled: false
       asNumber: 63400
+    EOF
     ```
     
-    You're done!
+
 
 1. If the resource _does_ exist, use the following command to retrieve it and save it 
    to a file.
